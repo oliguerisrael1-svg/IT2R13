@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FirstProblem {
+public class OliguerIsrael {
 
     public static void main(String[] args) {
 
