@@ -6,7 +6,7 @@ public class OliguerIsrael {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter your name: ");
+        System.out.print("Enter your name(Lastname, Firstname): ");
         String userName = input.nextLine();
 
         System.out.print("Enter your age: ");
